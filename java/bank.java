@@ -1,6 +1,3 @@
-
-
-／＊created by fanyufeng＊／
 class BankAccount{
 	public int balance;
 	public BankAccount(){
